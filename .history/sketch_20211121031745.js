@@ -18,9 +18,9 @@ var s = [];
 var mass = 30.0;
 var gravity = 0.0;
 
-function preload() {
-	img = loadImage("assets/2.jpg");  // Load the image
-}
+// function preload() {
+// 	// img = loadImage("assets/2.jpg");  // Load the image
+// }
 
 function setup() {
  cnv=createCanvas(400, 400);

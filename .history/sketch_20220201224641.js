@@ -19,7 +19,7 @@ var mass = 30.0;
 var gravity = 0.0;
 
 function preload() {
-	img = loadImage("assets/2.jpg");  // Load the image
+	// img = loadImage("assets/2.jpg");  // Load the image
 }
 
 function setup() {
